@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hey, I'm Zain 👋
 
-<!--
-**Zain-Repo/Zain-Repo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student who likes turning ideas into useful software.
 
-Here are some ideas to get you started:
+I spend most of my time working with TypeScript, React, Rust, and PostgreSQL. I'm especially interested in AI, developer tools, and building things that feel simple to use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm focused on learning, shipping, and improving one project at a time.
+
+### What I work with
+
+`TypeScript` · `React` · `Rust` · `PostgreSQL` · `Bun` · `GitHub Actions`
+
+Thanks for stopping by.
